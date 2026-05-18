@@ -21,6 +21,7 @@ At the core of this project is a seamless integration of **App-like UI/UX design
 * **Executive Action:** Identified critical historical revenue currently at risk, prompting immediate targeted interventions by the sales team.
 
 >  **🧠 Model Variance Analysis (Feature Importance):**
+>
 >  *Recency (31.16%) | Monetary/Revenue (24.02%) | Frequency/Orders (23.50%) | Net Profit (21.32%)*
 
 📊 **K-Means Cluster Personas & Risk Matrix**
